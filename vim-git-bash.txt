@@ -1,0 +1,30 @@
+vim commands:
+  save:
+    :x
+    :x!
+    :wq!
+
+  quit:
+    :q!
+
+git commands: 
+  git init - initializes git file
+  git stash save "" - stashes changes
+  git stash pop - apply stashed changes to current branch
+  git checkout -b <newbranchname> - creates new branch and checks it out
+  git branch - lists branches
+  git merge <branchname> - merges entered branch into current branch
+  git remote -v - lists all currently configured remote repos
+  git branch -d <branchname> - deletes branch entered
+
+bash commands:
+  mv "<oldname>" "<newname>" - renames files
+  mv "<filename>" "path/to/new/file/location" - move a file to a directory 
+  cp <./currentdirectory> <newdirectory> - copy file to another directory 
+  mkdir <directoryname> - makes new directory
+  rmdir "</path/to/directory>" - removes an empty directory
+  rm -R "</path/to/directory>" - removes nested directories
+  top - lists activley running computer processes
+  man <command> - shows manual for command entered
+  
+   
