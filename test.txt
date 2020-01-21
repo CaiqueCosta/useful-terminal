@@ -1,0 +1,9 @@
+vim commands:
+
+save:
+  :x
+  :x!
+  :wq!
+
+quit:
+  :q!
