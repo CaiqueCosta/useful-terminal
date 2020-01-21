@@ -1,5 +1,7 @@
 vim commands:
 
+this is a test
+
 save:
   :x
   :x!
