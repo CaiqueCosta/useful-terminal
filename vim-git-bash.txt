@@ -16,7 +16,9 @@ git commands:
   git merge <branchname> - merges entered branch into current branch
   git remote -v - lists all currently configured remote repos
   git branch -d <branchname> - deletes branch entered
-
+  git push --set-upstream origin <currentbranchname> - creates remote branch 
+						       with current branch name 
+  
 bash commands:
   mv "<oldname>" "<newname>" - renames files
   mv "<filename>" "path/to/new/file/location" - move a file to a directory 
@@ -26,5 +28,6 @@ bash commands:
   rm -R "</path/to/directory>" - removes nested directories
   top - lists activley running computer processes
   man <command> - shows manual for command entered
-  
+  cat <filename> - shows txt inside file without opening it or entering vim
+ 
    
